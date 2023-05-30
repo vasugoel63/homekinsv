@@ -1,0 +1,76 @@
+.navbar{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.navbar .user{
+    color: white;
+}
+.navbar .user:hover{
+    cursor: pointer;
+}
+
+.main-head{
+    background-color: rgb(164, 163, 163);
+    padding: 10px;
+}
+.nomoredata{
+    background: #f7f7f7;
+    padding: 20px;
+    width: 300px;
+    border: 1px solid rgb(164, 163, 163);
+
+}
+
+.reset{
+    border: 2px solid goldenrod;
+}
+.reset:hover{
+    background-color: goldenrod;
+    color: white;
+}
+
+
+.edit{
+    color: gray;
+}
+
+.fa-trash-can{
+    color: red;
+    font-size: 13px;
+}
+
+.edit:hover{
+    cursor: pointer;
+}
+
+.grey{
+    background-color:rgb(164, 163, 163);
+    color: white;
+    padding: 10px;
+}
+.grey:hover{
+    background-color:rgb(124, 124, 124);
+    color: white;
+
+}
+
+.firstadmin{
+    margin-top: 90px;
+}
+
+.square{
+    font-size: 50px;
+    margin-left: 150px;
+    color:rgb(124, 124, 124);
+
+}
+
+.square:hover{
+    color:rgb(164, 163, 163);
+    cursor: pointer;
+
+}
